@@ -13,8 +13,11 @@ I am passionate about technologies and love to learn new things.</p>
 
 <h4> 🧑‍💼 I am currently working as a Software Engineer at <bold><i><a href="https://www.ferntechsolutions.com/">Ferntech Solutions.</a></i></bold></h4> 
 
+<br>
+
 <h2> 📝 You can find my updated resume <i><a href="">here.</a></i></h2> 
 
+<br>
 <h2> 💻 Stack I Work With </h2>
 
 
