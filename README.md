@@ -13,9 +13,12 @@ I am passionate about technologies and love to learn new things.</p>
 
 <h4> 🧑‍💼 I am currently working as a Software Engineer at <bold><i><a href="https://www.ferntechsolutions.com/">Ferntech Solutions.</a></i></bold></h4> 
 
+<p align="right"><b>I am currently OPEN to new Opportunities</b></p>
 <br>
 
-<h2> 📝 You can find my updated resume <i><a href="">here.</a></i></h2> 
+
+
+<h2> 📝 You can find my updated resume <i><a href="https://github.com/MiteshChakma/MIteshChakma/blob/main/Mitesh%20Chakma_resume.pdf">here.</a></i></h2> 
 
 <br>
 <h2> 💻 Stack I Work With </h2>
@@ -48,3 +51,4 @@ I am passionate about technologies and love to learn new things.</p>
 <br>
 <h2>📝 My updated Resume <a href="">here</a></h2>
 <br>
+
