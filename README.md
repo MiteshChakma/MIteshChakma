@@ -11,7 +11,7 @@ I am passionate about technologies and love to learn new things.</p>
 
 <br>
 
-<h3> 🧑‍💼 I am currently working as a Software Engineer </h3> <p><bold><i>Ferntech Solutions</i></bold></p>
+<h3> 🧑‍💼 I am currently working as a Software Engineer </h3> <p><bold><i><a href="https://www.ferntechsolutions.com/">Ferntech Solutions</a></i></bold></p>
 
 <h2> 💻 Stack I Work With </h2>
 
