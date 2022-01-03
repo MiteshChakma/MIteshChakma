@@ -12,8 +12,9 @@ I am passionate about technologies and love to learn new things.</p>
 <br>
 
 <h4> 🧑‍💼 I am currently working as a Software Engineer at <bold><i><a href="https://www.ferntechsolutions.com/">Ferntech Solutions.</a></i></bold></h4> 
+<br>
 
-<p align="center"> <b style="color:red;"> I am currently OPEN to new Opportunities</b></p>
+<h4><p align="center"> <b style="color:red;"> I am currently OPEN to new Opportunities</b></p></h4>
 <br>
 
 
