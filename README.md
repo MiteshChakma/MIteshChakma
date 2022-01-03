@@ -11,9 +11,12 @@ I am passionate about technologies and love to learn new things.</p>
 
 <br>
 
-<h3> 🧑‍💼 I am currently working as a Software Engineer at <bold><i><a href="https://www.ferntechsolutions.com/">Ferntech Solutions</a></i></bold></h3> 
+<h4> 🧑‍💼 I am currently working as a Software Engineer at <bold><i><a href="https://www.ferntechsolutions.com/">Ferntech Solutions.</a></i></bold></h4> 
+
+<h2> 📝 You can find my updated resume <i><a href="">here.</a></i></h2> 
 
 <h2> 💻 Stack I Work With </h2>
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
