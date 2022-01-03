@@ -58,6 +58,8 @@ I am passionate about technologies and love to learn new things.</p>
 
 <br>
 
+<p>Please reach me out for anything(both professional and any kind of help) at miteshchakma@gmail.com </p>
+
 <h2> Thanks again. Looking forward to hear from you :) </h2>
 
 
