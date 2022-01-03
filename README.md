@@ -9,6 +9,9 @@
 I am a Back End Software Developer and Machine-Learning enthusiast. 
 I am passionate about technologies and love to learn new things.</p>
 
+<br>
+
+<h3> 🧑‍💼 I am currently working as a Software Engineer </h3> <p><bold><i>Ferntech Solutions</i></bold></p>
 
 <h2> 💻 Stack I Work With </h2>
 
@@ -35,8 +38,7 @@ I am passionate about technologies and love to learn new things.</p>
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" height="25"/>
-
-
-
-
 </p> 
+<br>
+<h2>📝 My updated Resume <a href="">here</a></h2>
+<br>
