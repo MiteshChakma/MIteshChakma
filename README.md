@@ -14,7 +14,7 @@ I am passionate about technologies and love to learn new things.</p>
 <h4> 🧑‍💼 I am currently working as a Software Engineer at <bold><i><a href="https://www.ferntechsolutions.com/">Ferntech Solutions.</a></i></bold></h4> 
 <br>
 
-<h4><p align="center"> <b style="color:red;"> I am currently OPEN to new Opportunities</b></p></h4>
+<h4><p align="center"> I am currently <b style="color:red;"> OPEN</b> to new Opportunities</p></h4>
 <br>
 
 
@@ -57,9 +57,10 @@ I am passionate about technologies and love to learn new things.</p>
 <a href="https://stackoverflow.com/users/3775790/mitesh"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="25"/></a>
 
 <br>
-
+<br>
+<br>
 <p>Please reach me out for anything(both professional and any kind of help) at miteshchakma@gmail.com </p>
-
+<br>
 <h2> Thanks again. Looking forward to hear from you :) </h2>
 
 
