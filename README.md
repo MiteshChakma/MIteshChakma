@@ -49,7 +49,7 @@ I am passionate about technologies and love to learn new things.</p>
 <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" height="25"/>
 </p> 
 <br>
-<h2> Here are the some of the ways you can reach out - -</h2>
+<h2> Here are the some of the ways to reach me out - -</h2>
 <br>
 <a href="https://www.linkedin.com/in/mitesh-chakma/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/></a>
 <a href="mailto:miteshchakma@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/></a>
