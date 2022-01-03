@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi There! 👋 </h1>
 
-<p>My name is Mitesh Chakma. Thanks for visiting. </p> <p align="right"> <img src="https://komarev.com/ghpvc/?username=MiteshChakma" alt="MiteshChakma" /> </p>
+<bold><p align="center">My name is Mitesh Chakma. I am from Bangladesh. Thanks for visiting me. </p> <p align="right"> <img src="https://komarev.com/ghpvc/?username=MiteshChakma" alt="MiteshChakma" /> </p></bold>
 <br>
 
 <p>
@@ -11,7 +11,7 @@ I am passionate about technologies and love to learn new things.</p>
 
 <br>
 
-<h3> 🧑‍💼 I am currently working as a Software Engineer </h3> <p><bold><i><a href="https://www.ferntechsolutions.com/">Ferntech Solutions</a></i></bold></p>
+<h3> 🧑‍💼 I am currently working as a Software Engineer at <bold><i><a href="https://www.ferntechsolutions.com/">Ferntech Solutions</a></i></bold></h3> 
 
 <h2> 💻 Stack I Work With </h2>
 
