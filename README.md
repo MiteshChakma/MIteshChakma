@@ -10,7 +10,8 @@ I am a Back End Software Developer and Machine-Learning enthusiast.
 I am passionate about technologies and love to learn new things.</p>
 
 
-<!-- ### 💻 Stack I Work With 
+<h2> ### 💻 Stack I Work With </h2>
+
 <p align="center">
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/php-8892BF.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/>
@@ -29,4 +30,4 @@ I am passionate about technologies and love to learn new things.</p>
 <img src="https://img.shields.io/badge/latex-008080.svg?&style=for-the-badge&logo=latex&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/sqlite-7CBEE4.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Django-092D1F.svg?&style=for-the-badge&logo=Django&logoColor=white" height="25"/>
-</p> -->
+</p> 
