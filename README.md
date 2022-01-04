@@ -4,7 +4,7 @@
 
 <bold><p align="center">My name is Mitesh Chakma. I am from Bangladesh. Thanks for visiting me. </p> 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=MiteshChakma" alt="MiteshChakma" /> </p></bold>
-https://github.com/MiteshChakma/MIteshChakma/blob/main/gst-removebg-preview.png
+
 <br>
 <br>
 <br>
