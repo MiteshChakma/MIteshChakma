@@ -3,18 +3,19 @@
 <h1 align="center">Hi There! 👋 </h1>
 
 <bold><p align="center">My name is Mitesh Chakma. I am from Bangladesh. Thanks for visiting me. </p> 
-<p align="right"> <img src="https://github.com/MiteshChakma/MIteshChakma/blob/main/gst-removebg-preview.png" alt="Ghostbuster" width="100" height="100"></p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=MiteshChakma" alt="MiteshChakma" /> </p></bold>
+<p align="right"> <img src="https://github.com/MiteshChakma/MIteshChakma/blob/main/gst-removebg-preview.png" alt="Ghostbuster" width="200" height="200"></p>
+<p > <img src="https://komarev.com/ghpvc/?username=MiteshChakma" alt="MiteshChakma" /> </p></bold>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<p>
+<p align="left">
 I am a Back End Software Developer and Machine-Learning enthusiast. 
 I am passionate about technologies and love to learn new things.</p> 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 
 <br>
 
