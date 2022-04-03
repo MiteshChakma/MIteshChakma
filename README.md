@@ -27,7 +27,7 @@ I am passionate about technologies and love to learn new things.</p>
 <br>
 
 
-<h2> 📝 You can find my updated resume <i><a href="https://github.com/MiteshChakma/MIteshChakma/blob/main/Mitesh%20Chakma_resume.pdf">here.</a></i></h2> 
+<h2> 📝 You can find my updated resume <i><a href="https://github.com/MiteshChakma/MIteshChakma/blob/main/Mitesh%20Chakma.pdf">here.</a></i></h2> 
 
 <br>
 <h2> 💻 Stack I Work With </h2>
