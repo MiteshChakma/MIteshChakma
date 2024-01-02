@@ -20,14 +20,14 @@ I am passionate about technologies and love to learn new things.</p>
 
 
 
-<h4> 🧑‍💼 I am currently working as a Software Engineer at <bold><i><a href="https://www.ferntechsolutions.com/">Ferntech Solutions.</a></i></bold></h4> 
+<h4> 🧑‍💼 I am currently working as a Software Engineer at <bold><i><a href="https://www.turing.com/">Turing. </a></i></bold></h4> 
 <br>
 
 <h4><p align="center"> I am currently <b style="color:red;"> OPEN</b> to new Opportunities</p></h4>
 <br>
 
 
-<h2> 📝 You can find my updated resume <i><a href="https://github.com/MiteshChakma/MIteshChakma/blob/main/Mitesh%20Chakma.pdf">here.</a></i></h2> 
+<h2> 📝 You can find my updated resume <i><a href="https://drive.google.com/file/d/1IoWoVEoKrETnVK9twsE7DEPAG_tEr_i0/view?usp=sharing">here.</a></i></h2> 
 
 <br>
 <h2> 💻 Stack I Work With </h2>
