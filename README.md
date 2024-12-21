@@ -10,7 +10,7 @@
 
 <h2 align="center">📚 About Me</h2>
 <p align="center">
-I am a <b>Master's student in Software Engineering</b> at <b>LUT University, Finland</b>, set to complete my studies by the end of this year. 🎓
+I am a <b>Master's student in Software Engineering</b> at <b>LUT University, Finland</b>, set to complete my studies by Spring 2025. 🎓
 </p>
 
 <p align="center">
