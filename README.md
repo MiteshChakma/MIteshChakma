@@ -1,26 +1,37 @@
 
+<h1 align="center">👋 Hi There! I'm Mitesh Chakma 🌟</h1>
 
-<h1 align="center">Hi There! 👋 </h1>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=MiteshChakma" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/MiteshChakma?label=Followers&style=social" alt="Followers" />
+</p>
 
-<bold><p align="center">My name is Mitesh Chakma. I am from Bangladesh. Thanks for visiting me. </p> 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=MiteshChakma" alt="MiteshChakma" /> </p></bold>
+---
 
-<br>
-<br>
-<br>
-<br>
-<br>
+<h2 align="center">📚 About Me</h2>
+<p align="center">
+I am a <b>Master's student in Software Engineering</b> at <b>LUT University, Finland</b>, set to complete my studies by the end of this year. 🎓
+</p>
 
-<p>
-I am a Back End Software Developer and Machine-Learning enthusiast. 
-I am passionate about technologies and love to learn new things.</p> 
+<p align="center">
+With over <b>2 years of experience</b> as an <b>AI Trainer</b>, I specialized in enhancing large language models. Currently, I am transitioning into a <b>Data Engineering</b> role, focusing on <b>Python programming</b>, <b>data processing</b>, and <b>scalable systems</b>. 📊
+</p>
 
-<br>
+---
+
+<h2 align="center">🎨 What I Do</h2>
+<ul>
+<li>👨‍💻 AI Model Training & Optimization</li>
+<li>👨‍💼 Data Engineering & Analysis</li>
+<li>🛠️ Back-End Development</li>
+<li>🎧 Problem Solving & Debugging</li>
+</ul>
 
 
+---
 
 
-<h4> 🧑‍💼 I am currently working as a Software Engineer at <bold><i><a href="https://www.turing.com/">Turing. </a></i></bold></h4> 
+<h4> 🧑‍💼 I am currently working as a AI triner at <bold><i><a href="https://www.turing.com/">Turing. </a></i></bold></h4> 
 <br>
 
 <h4><p align="center"> I am currently <b style="color:red;"> OPEN</b> to new Opportunities</p></h4>
