@@ -41,7 +41,7 @@ With over <b>2 years of experience</b> as an <b>AI Trainer</b>, I specialized in
 ---
 
 <h2 align="center">📝 Resume</h2>
-<p align="center">You can find my updated resume <a href="[https://drive.google.com/file/d/1IoWoVEoKrETnVK9twsE7DEPAG_tEr_i0/view?usp=sharing](https://drive.google.com/file/d/1H4Vb9vS175jXpil6PFrmcnaUlS7Y1pns/view?usp=sharing)">here</a>.</p>
+<p align="center">You can find my updated resume <a href="https://drive.google.com/file/d/1H4Vb9vS175jXpil6PFrmcnaUlS7Y1pns/view?usp=sharing">here</a>.</p>
 
 ---
 
