@@ -14,7 +14,7 @@ I am a <b>Master's student in Software Engineering</b> at <b>LUT University, Fin
 </p>
 
 <p align="center">
-With over <b>2 years of experience</b> as an <b>AI Trainer</b>, I specialized in enhancing large language models. Currently, I am transitioning into a <b>Data Engineering</b> role, focusing on <b>Python programming</b>, <b>data processing</b>, and <b>scalable systems</b>. 📊
+With over <b>2 years of experience</b> as an <b>AI Trainer</b>, I specialized in enhancing large language models. Currently, I am transitioning into a <b>Data Engineering</b> role, focusing on <b>Python programming</b>, <b>data processing</b>, and <b>scalable systems</b>. 
 </p>
 
 ---
