@@ -33,7 +33,7 @@ With over <b>2 years of experience</b> as an <b>AI Trainer</b>, I specialized in
 
 <h4> 🧑‍💼 I am currently working as a AI trainer at <bold><i><a href="https://www.turing.com/">Turing. </a></i></bold></h4> 
 <br>
---
+
 
 <h2 align="center">💼 Open to Opportunities</h2>
 <p align="center">I am currently <b style="color:red;">OPEN</b> to new opportunities in data engineering and software development roles.</p>
